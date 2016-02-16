@@ -1,0 +1,43 @@
+ctttom satuentes GAUSS
+
+2.
+· ' Haud inutile erit, quasdam propositiones, quae in huiusmodi
+· quaestionibus vsum frequentem offerunt, hic in conspectum producere.
+. 1. Angulus inter duas rectas sep secantes mensuratur per
+arcum inter puncta, quae in superficie sphaerion illarum directioni·
+hus respondent.
+
+· 11. Situs cuiuslibet ,pieni repraesentari potest per circulum ι
+maximum in superficie sphaerion, cuius planum ilii est parallelum. ᾗ
+. 111. Angulus interduo plane aequalis est angulo sphaerico
+inter circulos maximos illa repraesentantes, et proin etiam' per ar·
+num inter horum circulorum maximorum polos interceptum mensus
+
+ratur. Et perinde inclinatio rectae ad planum mensuratur per ar· ,
+
+cum, a puncto, quod respondet directioni rectae, ad circulum ma·
+ximum, qui plani situm repraesentat, normaliter ductum.
+
+1V.' Denotantihus x, y, m x‘,· y', ι’ coordinatus duorum
+= punctorum, r eorundem distantiam, atque L punctum, quod in su·
+perficio sphaerion repraesentat directionem rectae a puncto priori
+. ad posterius ductae, erit
+
+,τ’ :·x -}· reos (1) l>
+y':y †rcos(2)L
+z' = z † roos (3).I¹
+V. Hinc facile sequitur, haberi generaliter
+nos(1)L² 4 cos(2)L² ἦ· cos(3)L² :1
+nec non, denotante L' quodeunque aliud punctum superficiei sphae-
+ricae, esse
+
+eos (1)L .cos (1) L' a}— cosm) L ‚cos(2)L' † cos (3)L.cos (3) L'
+. = cos LL‘. . , , -
+Vl. Turonum. Deuotantibue L, L', L'', Lm 'quatuor pun-
+cta in superficie sphaerae, atque A angulum, quem arcus LL',
+L''L'“ in puncto concursus sni formant, erit
+
+oosLL‘'. cosL'Lmv-oosLH'fi cesL'L'' :: sinLL'. sinL''L''‘. cosA
+
+ 
+
